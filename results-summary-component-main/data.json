@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Reaction",
+    "score": 65,
+    "icon": "fa-solid fa-bolt"
+  },
+  {
+    "category": "Memory",
+    "score": 72,
+    "icon": "fa-solid fa-brain"
+  },
+  {
+    "category": "Verbal",
+    "score": 41,
+    "icon": "fa-regular fa-comment"
+  },
+  {
+    "category": "Visual",
+    "score": 85,
+    "icon": "fa-solid fa-eye"
+  }
+]
